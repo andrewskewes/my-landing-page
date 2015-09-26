@@ -1,0 +1,44 @@
+body{
+	text-align: center;
+	background: url(http://images6.alphacoders.com/470/470433.jpg);
+	background-size: cover;
+	color:black;
+	font-family: arial;
+}
+
+
+img{
+	border-radius: 145px;
+    border: 3px solid red}
+
+ul{
+	list-style-position: inside;
+	border: solid black
+
+}
+
+input[type="submit"]{background: red	}
+
+#excited{
+	font-weight: bold;
+	color: red
+}
+.demo{text-decoration: underline
+}
+header{text-align: center;	}
+
+.nav-items{
+	display:inline;
+	padding;44px
+	margin}
+
+#navigation {
+	border:none;
+	padding-top: 30px;
+}
+
+#left-div{
+	height: 100px;
+	width: 50%;
+	background-color: blue:
+}
